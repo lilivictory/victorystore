@@ -17,6 +17,11 @@
 .float:hover{
     background-color: #28e26c;
 }
+.metal-mania-regular {
+  font-family: "Metal Mania", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
 
 
 *{
